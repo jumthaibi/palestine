@@ -20,7 +20,7 @@ many of its cities have historical or religious importance, most notably <a href
 </center>
 <hr>
 <center>
-<img src="file:///C:/Users/MAC/Downloads/370d71c3-23db-4317-bd69-ec1b9b54864b.jpg" width="250" height="250" alt="palestine">
+<img src="370d71c3-23db-4317-bd69-ec1b9b54864b.jpg" width="250" height="250" alt="palestine">
 </center>
 </body>
 </html>
