@@ -5,7 +5,7 @@
     <title>Palestine</title>
 </head>
 <body><center>
-<img src="file:///C:/Users/MAC/Downloads/cropped_image%20(1).png" width="250" height="250" alt="palestine map">
+<img src="cropped_image (1).png" width="250" height="250" alt="palestine map">
 <h1>Palestine</h1>
 <hr>
 <p style="font-size:25px">It is the geographical region located southeast of the Mediterranean <br>
