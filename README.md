@@ -1,8 +1,7 @@
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Palestine</title>
 </head>
 <body><center>
 <img src="cropped_image (1).png" width="250" height="250" alt="palestine map">
